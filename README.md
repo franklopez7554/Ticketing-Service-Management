@@ -1,56 +1,52 @@
 ## Creating a Ticket in ServiceNow
 
-### Objective
-
-This SOP outlines the steps to create a ticket in ServiceNow for incident management.
-
-### Key Steps
-
- 
-
-**Step 1: Access Creator Studio** [0:00](https://loom.com/share/504304766ddc42e4905c41c2f872d474?t=0)
-
-![generated-image-at-00:00:00](https://loom.com/i/6fb5bc26bd1d4d4591c24d910c3a7ccb?workflows_screenshot=true)
-
-- Open your Creator Studio portal.
-- Click on the 'All' option to view all available modules.
-
- 
-
-**Step 2: Navigate to Incidents** [0:13](https://loom.com/share/504304766ddc42e4905c41c2f872d474?t=13)
-
-![generated-image-at-00:00:13](https://loom.com/i/8d3d719c86944f4abd74864434548218?workflows_screenshot=true)
-
-- In the menu, locate and click on 'Incidents'.
-- Wait for the incidents page to load.
-
- 
-
-**Step 3: Create a New Ticket** [0:28](https://loom.com/share/504304766ddc42e4905c41c2f872d474?t=28)
-
-![generated-image-at-00:00:28](https://loom.com/i/2bf198fedbe94152a22b4ae5401d9d21?workflows_screenshot=true)
-
-- Click on the 'New' button to initiate the ticket creation process.
-
- 
-
-**Step 4: Fill in Ticket Details** [0:42](https://loom.com/share/504304766ddc42e4905c41c2f872d474?t=42)
-
-![generated-image-at-00:00:42](https://loom.com/i/211b7883b0bc48f7ac1d03aaddeb2bfe?workflows_screenshot=true)
-
-- In the ticket form, enter a brief description of the incident (e.g., 'test: Password lockout').
-- Utilize any additional fields as necessary to provide more context.
-
-### Cautionary Notes
-
-- Ensure that all required fields are filled out before submitting the ticket.
-- Double-check the information entered for accuracy to avoid delays in resolution.
-
-### Tips for Efficiency
-
-- Familiarize yourself with common incident types to speed up the ticket creation process.
-- Use templates for recurring issues to save time.
-
-### Link to Loom
 
 <https://loom.com/share/504304766ddc42e4905c41c2f872d474>
+
+Open your organization's ServiceNow portal.
+
+Enter your credentials to access the dashboard.
+servicenow.com
++1
+docs.oracle.com
++1
+
+2. Navigate to the Incident Module
+In the left-hand navigation pane, type "Incident" in the filter navigator.
+
+Click on "Create New" under the Incident module.
+
+3. Fill Out the Incident Form
+Caller: Select the user reporting the issue.
+
+Short Description: Provide a brief summary of the problem.
+
+Description: Enter detailed information about the incident.
+
+Category: Choose the appropriate category (e.g., Software, Hardware).
+
+Subcategory: Select a more specific classification if available.
+
+Impact: Indicate the extent of the issue's effect on the business.
+
+Urgency: Specify how quickly the issue needs resolution.
+
+Priority: This is often auto-calculated based on impact and urgency.
+  
+Assignment Group: Assign the ticket to the relevant team.
+
+Assigned To: Designate a specific individual if known.
+basicoservicenowlearning.in
+servicenow.com
+
+4. Add Attachments (If Necessary)
+Use the paperclip icon to upload any relevant files or screenshots that can aid in resolving the incident.
+
+5. Submit the Incident
+Once all required fields are completed, click the Submit button to create the ticket.
+
+6. Monitor and Update the Ticket
+After submission, the incident will be tracked through its lifecycle: New → In Progress → Resolved → Closed.
+
+You can add work notes, reassign the ticket, or update its status as needed.
+

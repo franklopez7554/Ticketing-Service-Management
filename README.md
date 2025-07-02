@@ -5,17 +5,13 @@
 
 Open your organization's ServiceNow portal.
 
-Enter your credentials to access the dashboard.
-servicenow.com
-+1
-docs.oracle.com
-+1
-
+1. Enter your credentials to access the dashboard.
+![image](https://github.com/franklopez7554/Ticketing-Service-Management/blob/main/Screenshot%202025-07-02%20050835.png)
 2. Navigate to the Incident Module
 In the left-hand navigation pane, type "Incident" in the filter navigator.
 
 Click on "Create New" under the Incident module.
-
+![image](https://github.com/franklopez7554/Ticketing-Service-Management/blob/main/Screenshot%202025-07-02%20051201.png)
 3. Fill Out the Incident Form
 Caller: Select the user reporting the issue.
 
@@ -36,17 +32,15 @@ Priority: This is often auto-calculated based on impact and urgency.
 Assignment Group: Assign the ticket to the relevant team.
 
 Assigned To: Designate a specific individual if known.
-basicoservicenowlearning.in
-servicenow.com
+![image](https://github.com/franklopez7554/Ticketing-Service-Management/blob/main/Screenshot%202025-07-02%20051218.png)
 
 4. Add Attachments (If Necessary)
 Use the paperclip icon to upload any relevant files or screenshots that can aid in resolving the incident.
-
+![image](https://github.com/franklopez7554/Ticketing-Service-Management/blob/main/Screenshot%202025-07-02%20051232.png)
 5. Submit the Incident
 Once all required fields are completed, click the Submit button to create the ticket.
-
+![image](https://github.com/franklopez7554/Ticketing-Service-Management/blob/main/Screenshot%202025-07-02%20051240.png)
 6. Monitor and Update the Ticket
 After submission, the incident will be tracked through its lifecycle: New → In Progress → Resolved → Closed.
 
-You can add work notes, reassign the ticket, or update its status as needed.
 

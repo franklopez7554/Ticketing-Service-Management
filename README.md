@@ -1,5 +1,8 @@
-## Creating a Ticket in ServiceNow
-
+# ServiceNow Incident Ticket Creation Process:
+* Accessed the ServiceNow platform by securely logging into the system.
+* Initiated the creation of a new incident ticket to document a reported issue.
+* Entered key incident details, including a clear issue description, appropriate category, and assigned priority level based on urgency and impact.
+* Saved the incident to the system, generating a unique ticket number for tracking and reference purposes.
 
 <https://loom.com/share/504304766ddc42e4905c41c2f872d474>
 
